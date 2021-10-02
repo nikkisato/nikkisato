@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/nikkisatodev" target="blank"><img src="https://img.shields.io/twitter/follow/nikkisatodev?logo=twitter&style=for-the-badge" alt="nikkisatodev" /></a> </p>
 
-- 🔭 I’m currently working on [React Native](React Native)
+- 🔭 I’m currently working on [Hulu 2.0](React Native)
 
-- 🌱 I’m currently learning **AWS and Typescript**
+- 🌱 I’m currently learning **Next.js and Accessibility**
 
 - 👨‍💻 All of my projects are available at [https://www.nikkisato.com/](https://www.nikkisato.com/)
 
