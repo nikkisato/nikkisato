@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikki Sato</h1>
-<h3 align="center">A passionate frontend developer from Portland, Oregon</h3>
+<h3 align="center">A Passionate frontend developer from Portland, Oregon</h3>
 
 <p align="left"> <a href="https://twitter.com/nikkisatodev" target="blank"><img src="https://img.shields.io/twitter/follow/nikkisatodev?logo=twitter&style=for-the-badge" alt="nikkisatodev" /></a> </p>
 
-- 🔭 I’m currently working on [Hulu 2.0](React Native)
+- 🔭 I’m currently working on [Ally Docs](https://github.com/nikkisato/a11y-docs)
 
 - 🌱 I’m currently learning **Next.js and Accessibility**
 
