@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/nikkisatodev" target="blank"><img src="https://img.shields.io/twitter/follow/nikkisatodev?logo=twitter&style=for-the-badge" alt="nikkisatodev" /></a> </p>
 
-- 🔭 I’m currently working on [A11y Docs](https://github.com/nikkisato/a11y-docs)
+- 🔭 I’m currently working on Something New
 
 - 🌱 I’m currently learning **Next.JS and Accessibility**
 
